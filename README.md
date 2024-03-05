@@ -6,6 +6,6 @@
 * `Cw`: Leaf water (cm)
 * `Cm`: Dry matter content (g/cm<sup>2</sup>)
 * `Cant`: Anthocyanins (µg/cm<sup>2</sup>)
-## description of files
+## Description of files
 * `LeafSIP.py`: Main file of the Leaf SIP model.
 * `dataSpec_PDB.csv`: Absorption coefficients
