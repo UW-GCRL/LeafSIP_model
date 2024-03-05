@@ -5,7 +5,7 @@
 * `Cbrw`: Brown pigments (arbitrary units, 0-1)
 * `Cw`: Leaf water (cm)
 * `Cm`: Dry matter content (g/cm<sup>2</sup>)
-* `Cant`:Anthocyanins (µg/cm<sup>2</sup>)
+* `Cant`: Anthocyanins (µg/cm<sup>2</sup>)
 ## description of files
 * `LeafSIP.py`: Main file of the Leaf SIP model.
 * `dataSpec_PDB.csv`: Absorption coefficients
