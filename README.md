@@ -1,4 +1,4 @@
-# A leaf radiative transfer model rooted in the the spectral invariant properties (SIPs) theory  (Leaf SIP model)
+# A leaf radiative transfer model rooted in the spectral invariant properties (SIPs) theory  (Leaf SIP model)
 ## Inputs
 * `Cab`: Total chlorophyll content a+b (µg/cm<sup>2</sup>)
 * `Ccar`: Carotenoids  (µg/cm<sup>2</sup>)
